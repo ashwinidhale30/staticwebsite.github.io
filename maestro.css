@@ -1,0 +1,29 @@
+.navbar{
+	background-color:black;
+	height:50px;
+	
+}
+
+.navbar ul{
+	
+}
+
+.navbar ul li{
+	list-style-type:none;
+	float:left;
+	width:150px;
+	//150px each home contact;
+	text-align:center;	
+}
+
+.navbar ul li a{
+	text-decoration:none;
+	color:white;
+	border-right:1px solid red;
+	display:block;
+}
+
+.navbar ul li a:hover{
+	background-color:yellow;
+	color:green;
+}
