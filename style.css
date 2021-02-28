@@ -11,8 +11,7 @@
 .navbar ul li{
 	list-style-type:none;
 	float:left;
-	width:150px;
-	//150px each home contact;
+	width:150px;     /*150px each home contact*/
 	text-align:center;	
 }
 
